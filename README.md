@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Valeria Franciscangeli 👋
+
+
+- 😄 Pronouns: she/her
+- 🌎 From Chile, South America.
+- 📚 Computer Science Engineering Undergraduate Student at Universidad de Chile, in Santiago de Chile. 
+- 🌱 I'm currently learning about Web Development and Databases.
+- 💻 Currently coding mostly in Python and Java.
+- 📫 How to reach me: valeriafranciscangeli@gmail.com
+- 🎖  Here's some stats:
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valfranciscangeli&show_icons=true&theme=radical)
 -->
