@@ -2,9 +2,9 @@
 
 
 - 😄 Pronouns: she/her
-- 🌎 From Chile, South America.
-- 📚 Computer Science Engineering Undergraduate Student at Universidad de Chile, in Santiago de Chile. 
-- 🌱 I'm currently learning about Web and Mobile Apps Development, No-SQL Databases and IT.
+- 🌎 From Chile.
+- 📚 Computer Science Engineering Undergraduate Student at Universidad de Chile, Santiago de Chile. 
+- 🌱 I'm currently working as Web and Mobile Apps Dev.
 - 🎖  Here's some stats:
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valfranciscangeli&show_icons=true&theme=radical)
