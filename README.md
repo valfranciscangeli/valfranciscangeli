@@ -3,8 +3,10 @@
 
 - 😄 Pronouns: she/her
 - 🌎 From Chile.
-- 📚 Computer Science Engineering Undergraduate Student at Universidad de Chile, Santiago de Chile. 
+- 📚 Computer Science Engineer.
+<!--
 - 🌱 I'm currently working as Web and Mobile Apps Dev.
+ -->
 - 🎖  Here's some stats:
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valfranciscangeli&show_icons=true&theme=radical)
